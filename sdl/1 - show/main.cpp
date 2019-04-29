@@ -1,10 +1,10 @@
 #include "SDL2/SDL.h"
 
 int main(int argc, char * args[]) {
-    /* Start SDL */
+    /* Iniciar SDL */
     SDL_Init(SDL_INIT_EVERYTHING);
 
-    /* Quit SDL */
+    /* Cerrar SDL */
     SDL_Quit();
 
     return 0;

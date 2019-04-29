@@ -26,7 +26,7 @@ int main(int argc, char* argv[])
     else {
         /* Crear la ventana */
         window = SDL_CreateWindow(
-        	"SDL Protein", 
+        	"SDL Pro", 
         	SDL_WINDOWPOS_UNDEFINED, 
         	SDL_WINDOWPOS_UNDEFINED, 
         	SCREEN_WIDTH, 
